@@ -1,2 +1,4 @@
 created newfile1.txt
-hbbnnn
+hi i created this file in vs code
+this is my second changing file
+
